@@ -1,6 +1,8 @@
 # Personal Website
 This is my personal website, where I dove deep into math invovled with CSS, along with Next.js best design practices.
+
 [Link to Website](https://jameleu.github.io/)
+
 [Link to code](https://github.com/jameleu/jameleu.github.io)
 ## Info About Craftmanship of Website
 Coded in React, Next.js, JS, CSS, HTML. All components (like carousel buttons) are made from scratch using math and code
