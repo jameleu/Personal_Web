@@ -1,5 +1,7 @@
 # Personal Website
 This is my personal website, where I dove deep into math invovled with CSS, along with Next.js best design practices.
+[Link to Website](https://jameleu.github.io/)
+[Link to code](https://github.com/jameleu/jameleu.github.io)
 ## Info About Craftmanship of Website
 Coded in React, Next.js, JS, CSS, HTML. All components (like carousel buttons) are made from scratch using math and code
 * For the bubble's floating movement, used **Perlin Noise** to generate naturally smooth sequence of pseudo-random numbers to determine bubbles' position. Pop up text has adaptive size despite the lack of the usual hierarchical child to parent influenced sizing
